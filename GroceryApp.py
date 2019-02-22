@@ -33,10 +33,13 @@ def display_all_items():
         storeelement = storeslist[index]
         print(f"{index+1} - {storeelement.name} - {storeelement.address}")
         totalprice = 0
+        finaltotal =0
         for grocery_item in storeelement.grocery_items:
             print(f"  {grocery_item.name} -  {grocery_item.quantity} { grocery_item.price}")
             totalprice += (int(grocery_item.price))
             print(f"total price {totalprice}")
+            finaltotal += totalprice
+            print(f"final total {finaltotal}")
 
 
 def add_grocery_item():

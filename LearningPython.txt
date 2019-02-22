@@ -1,0 +1,3 @@
+Python - learned variables,indentation,loops,conditions in Python
+Python - learned about dictionaries,arrays in Python
+Python - learend about Classes, Objeacts, Instance,Inheritance in Python.

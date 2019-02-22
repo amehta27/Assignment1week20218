@@ -1,0 +1,39 @@
+------------------------- 
+Table number: 1 
+Available 
+------------------------- 
+Table number: 2 
+Available 
+------------------------- 
+Table number: 3 
+Available 
+------------------------- 
+Table number: 4 
+Start time: 2019-02-22 14:20:18.271177 
+End time: 2019-02-22 14:20:27.231814 
+Total time: 0 minute(s) 
+Current cost: $0.0 
+------------------------- 
+Table number: 5 
+Available 
+------------------------- 
+Table number: 6 
+Available 
+------------------------- 
+Table number: 7 
+Available 
+------------------------- 
+Table number: 8 
+Available 
+------------------------- 
+Table number: 9 
+Available 
+------------------------- 
+Table number: 10 
+Available 
+------------------------- 
+Table number: 11 
+Available 
+------------------------- 
+Table number: 12 
+Available 
